@@ -10,4 +10,7 @@ public class TestProject {
         return x+y;
     }
     
+    public static int subract(int x, int y) {
+        return x-y;
+    }
 }
